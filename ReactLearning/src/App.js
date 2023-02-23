@@ -10,7 +10,7 @@ const App = () => {
   };
 
   const clearDisplay = () => {
-    setResult(""); //to clear the display
+    setResult(""); //to clear display
   };
 
   const calculate = () => {
