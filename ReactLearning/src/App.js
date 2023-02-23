@@ -16,9 +16,9 @@ const App = () => {
   const calculate = () => {
     try {
       setResult(eval(result), toString());
+      //eval is a function//
     } catch (err) {
       setResult("Error");
-      //eval is a function//
     }
   };
 
