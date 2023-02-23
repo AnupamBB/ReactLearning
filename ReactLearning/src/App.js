@@ -22,8 +22,8 @@ const App = () => {
     }
   };
 
+  // body of the calculator
   return (
-    // body of the calculator
 
     <div className="container">
       <div className="calc">
