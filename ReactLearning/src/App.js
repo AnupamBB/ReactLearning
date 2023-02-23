@@ -18,8 +18,8 @@ const App = () => {
       setResult(eval(result), toString());
     } catch (err) {
       setResult("Error");
+      //eval is a function//
     }
-     //eval is a function//
   };
 
   return (
